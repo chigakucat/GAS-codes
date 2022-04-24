@@ -1,2 +1,4 @@
-# GAS-gassyuku
-(๑>ᴗ<๑)
+# GAS-codes
+諸々の塊
+
+ほぼゴミ箱
